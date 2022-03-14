@@ -1,4 +1,4 @@
 # APIs Data
 
 ### 1. Heatmap 
-https://kushtej.github.io/apis/heatmap/data.json
+https://kushtej.github.io/hosted/apis/heatmap/data.json
